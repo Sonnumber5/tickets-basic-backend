@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: basic-ticketing-app
+
+  datasource:
+    url: jdbc:mysql://localhost:8889/CST-323-CLC
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+#server:
+#  address: 0.0.0.0
