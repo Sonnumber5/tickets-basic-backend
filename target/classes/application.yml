@@ -3,9 +3,9 @@ spring:
     name: basic-ticketing-app
 
   datasource:
-    url: jdbc:mysql://localhost:8889/CST-323-CLC
-    username: root
-    password: root
+    url: jdbc:mysql://j1r4n2ztuwm0bhh5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com/yqh5nqaogqll00tu
+    username: qxauk02l0m8ftahq
+    password: gk2cutpw6y7xp3uc
     driver-class-name: com.mysql.cj.jdbc.Driver
 
 #server:

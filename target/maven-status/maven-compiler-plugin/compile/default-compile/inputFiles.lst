@@ -1,0 +1,6 @@
+/Users/jackparkison/Documents/School/CST-323/tickets-basic-backend/src/main/java/com/example/ticketsbasic/TicketsBasicApplication.java
+/Users/jackparkison/Documents/School/CST-323/tickets-basic-backend/src/main/java/com/example/ticketsbasic/aop/LoggingAspect.java
+/Users/jackparkison/Documents/School/CST-323/tickets-basic-backend/src/main/java/com/example/ticketsbasic/domain/Ticket.java
+/Users/jackparkison/Documents/School/CST-323/tickets-basic-backend/src/main/java/com/example/ticketsbasic/repo/TicketRepository.java
+/Users/jackparkison/Documents/School/CST-323/tickets-basic-backend/src/main/java/com/example/ticketsbasic/service/TicketService.java
+/Users/jackparkison/Documents/School/CST-323/tickets-basic-backend/src/main/java/com/example/ticketsbasic/web/TicketController.java
